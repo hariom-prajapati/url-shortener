@@ -2,7 +2,7 @@
 
 A URL shortener script based on node js
 
-## Installation
+### Installation
 
 Use the package manager npm to install URL Shortener. To use, execute these commands:
 
@@ -12,7 +12,7 @@ node index.js
 ```
 Don't forget to add MongoDB connected string to config/db.js file line number 2
 
-## Usage
+### Usage
 
 ```javascript
 It will listen to port 5005
